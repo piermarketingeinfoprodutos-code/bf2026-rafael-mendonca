@@ -19,5 +19,5 @@ window.CAMPANHA = {
   ],
 
   // Página de obrigado
-  grupoWhatsApp: "#LINK-DO-GRUPO-DE-AVISOS"
+  grupoWhatsApp: "https://chat.whatsapp.com/KEUeA67di048UQUy2Q47vD?s=sh&p=a&iam=2"
 };
